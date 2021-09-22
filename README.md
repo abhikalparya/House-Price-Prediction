@@ -1,2 +1,2 @@
-# house-price-prediction
-This is a house price prediction model crested in Python using Scikit-Learn.
+# House Prediction Model
+This is a house price prediction model created in Python using Scikit-Learn.
